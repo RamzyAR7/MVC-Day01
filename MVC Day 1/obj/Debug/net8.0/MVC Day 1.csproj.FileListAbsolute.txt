@@ -1,0 +1,35 @@
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\appsettings.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\MVC Day 1.staticwebassets.runtime.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\MVC Day 1.staticwebassets.endpoints.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\MVC Day 1.exe
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\MVC Day 1.deps.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\MVC Day 1.runtimeconfig.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\MVC Day 1.dll
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\bin\Debug\net8.0\MVC Day 1.pdb
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.AssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.RazorAssemblyInfo.cache
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.RazorAssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.sourcelink.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\scopedcss\bundle\MVC Day 1.styles.css
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\scopedcss\projectbundle\MVC Day 1.bundle.scp.css
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets\msbuild.MVC Day 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets\msbuild.MVC Day 1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Day 1.props
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Day 1.props
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Day 1.props
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.dll
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\refint\MVC Day 1.dll
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.pdb
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\MVC Day 1.genruntimeconfig.cache
+C:\Users\Ahmed Ramzy\source\repos\MVC Day 1\MVC Day 1\obj\Debug\net8.0\ref\MVC Day 1.dll

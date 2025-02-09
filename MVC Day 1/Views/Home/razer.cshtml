@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Razer Page";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<style>
+    h1 {
+        color: red;
+    }
+
+    p {
+        color: blue;
+    }
+</style>
+@{
+    int x = 10;
+    int y = 20;
+}
+@if (y > x)
+{
+    <h2>Y is Greater than X</h2>
+}
+else{
+    <h2>x is Greater than or equal y</h2>
+}
+
+@for (int i = 0; i < 10; i++)
+{
+    <li>@i</li>
+}
